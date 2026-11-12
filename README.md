@@ -1,4 +1,4 @@
-Deploy the Researchly research abstract classifier
+# **Deploy the Researchly research abstract classifier**
 Researchly predicts whether a research abstract belongs to the artificial intelligence or classical research category. Question 1 established the text-cleaning rules and logistic regression baseline. Question 2 selected the final classifier: TF–IDF word and word-pair features, supervised term weighting, and a linear support vector machine (SVM).
 Run the classifier on Windows
 1. Right-click Researchly-Project.zip, choose Extract All, and open the extracted researchly folder.
